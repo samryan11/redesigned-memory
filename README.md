@@ -7,3 +7,4 @@ Este es un cambio IDE desde *GitHub*, **en su version web**
 * Esto se puede hacer desde el IDE de Remix
 * Esto se pude hacer en local desde una terminal
 * Esto se puede hacer desde Visual Studio Code
+* Este es un cambio para variar la sincronizacion con **REMIX**
